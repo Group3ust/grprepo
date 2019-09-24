@@ -6,6 +6,7 @@ public class Main {
 		
 		SalesData objSalesData=new SalesData();
 		System.out.println("Welcome to Sales App");
+		System.out.println("Test1");
 		
 	}
 	
